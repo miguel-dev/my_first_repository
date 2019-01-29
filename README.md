@@ -1,3 +1,3 @@
 #My first repository.
 
-I am sharing a readme file.
+I have learned a lot about Git and Github.
